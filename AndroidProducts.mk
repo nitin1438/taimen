@@ -16,4 +16,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_taimen.mk \
-    $(LOCAL_DIR)/carbon_taimen.mk
+    $(LOCAL_DIR)/pixeldust_taimen.mk

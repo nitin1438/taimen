@@ -36,4 +36,4 @@ BOARD_LISA_TARGET_SCRIPTS := device/google/wahoo/lisa/
 # rounded_corner_radius in overlay/frameworks/base/packages/SystemUI/res/values/dimens.xml.
 TARGET_RECOVERY_UI_MARGIN_HEIGHT := 105
 
--include device/google/taimen/BoardConfigCarbon.mk
+-include device/google/taimen/BoardConfigPixelDust.mk
